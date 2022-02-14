@@ -29,3 +29,8 @@ ul {
     }
 }
 
+input[type=range] {
+    filter: grayscale(1) contrast(1);
+
+}
+

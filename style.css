@@ -39,4 +39,9 @@ ul li span {
 ul li canvas {
   border: 1px solid red;
 }
+
+input[type=range] {
+  -webkit-filter: grayscale(1) contrast(1);
+          filter: grayscale(1) contrast(1);
+}
 /*# sourceMappingURL=style.css.map */
